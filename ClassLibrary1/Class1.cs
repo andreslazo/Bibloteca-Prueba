@@ -9,5 +9,6 @@ namespace ClassLibrary1
     {
         int pruebita;
         int dos;
+        int carlosfiera;
     }
 }
