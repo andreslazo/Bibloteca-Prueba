@@ -7,5 +7,6 @@ namespace ClassLibrary1
 {
     class HolaDimondo
     {
+        int algo;
     }
 }
